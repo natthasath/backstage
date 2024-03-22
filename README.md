@@ -1,14 +1,3 @@
-# [Backstage](https://backstage.io)
-
-This is your newly scaffolded Backstage App, Good Luck!
-
-To start the app, run:
-
-```sh
-yarn install
-yarn dev
-```
-
 # 🎉 DEMO Backstage
 
 Backstage.io is an open platform for building developer portals. It enables organizations to streamline their software development workflows and improve collaboration among teams.
@@ -23,6 +12,12 @@ Backstage.io is an open platform for building developer portals. It enables orga
 
 ```shell
 npx @backstage/create-app@latest
+```
+
+- Install Package
+
+```shell
+yarn install
 ```
 
 - Fix Error
