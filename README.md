@@ -28,7 +28,7 @@ npx @backstage/cli versions:bump
 
 ### 🏆 Run
 
-- [http://localhost:3000/](http://localhost:3000/) username : `admin` password : `admin`
+- [http://localhost:3000/](http://localhost:3000/)
 
 ```shell
 yarn dev
